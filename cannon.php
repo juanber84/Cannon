@@ -9,7 +9,7 @@
 	}
 
 	function contentfile($file){
-		return file_get_contents(".cannon/config.json");;
+		return file_get_contents($file);
 	}	
 
 	function status($project, $port, $url, $pid, $file){
