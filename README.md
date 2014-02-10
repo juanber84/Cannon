@@ -11,6 +11,6 @@ You're looking right at the solution to your problems.
 2. Enter the path of your project
 3. Pick whichever port you like
 
-###### And that's it: sit back and enjoy! 
+##### And that's it, sit back and enjoy! 
 
 Thanks to www.helenandres.es for the graphics. 
