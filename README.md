@@ -13,4 +13,4 @@ You're looking right at the solution to your problems.
 
 ##### And that's it, sit back and enjoy! 
 
-Thanks to helena andres for the graphics.
+Thanks to Helena Andres for the graphics.
